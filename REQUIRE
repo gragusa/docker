@@ -2,4 +2,7 @@ CUDAnative
 CuArrays
 GPUArrays
 Knet
+Flux
+GLM
+DataFrames
 
